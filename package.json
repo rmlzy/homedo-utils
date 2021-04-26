@@ -1,0 +1,34 @@
+{
+  "name": "hmd-utils",
+  "description": "A JavaScript util collections built for homedo.com",
+  "version": "1.0.9",
+  "main": "lib/hmd-utils.js",
+  "scripts": {
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "test": "cross-env NODE_ENV=test ava",
+    "test-coverage": "cross-env NODE_ENV=test nyc npm run test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "latest",
+    "codecov": "latest",
+    "cross-env": "latest",
+    "fixpack": "latest",
+    "nyc": "latest",
+    "prettier": "^2.2.1"
+  },
+  "homepage": "https://github.com/rmlzy/hmd-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmlzy/hmd-utils"
+  },
+  "keywords": [
+    "homedo",
+    "util"
+  ],
+  "engines": {
+    "node": ">= 10"
+  },
+  "author": "rmlzy <rmlzy@outlook.com> (https://poppython.com)",
+  "license": "MIT"
+}
