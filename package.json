@@ -1,7 +1,7 @@
 {
-  "name": "hmd-utils",
+  "name": "homedo-utils",
   "description": "A JavaScript util collections built for homedo.com",
-  "version": "1.1.2",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
@@ -29,10 +29,10 @@
     "nyc": "latest",
     "prettier": "^2.2.1"
   },
-  "homepage": "https://github.com/rmlzy/hmd-utils",
+  "homepage": "https://github.com/rmlzy/homedo-utils",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rmlzy/hmd-utils"
+    "url": "https://github.com/rmlzy/homedo-utils"
   },
   "keywords": [
     "homedo",
