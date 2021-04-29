@@ -13,14 +13,6 @@
 > A JavaScript util collections built for homedo.com
 
 
-## Table of Contents
-
-* [Install](#install)
-* [Usage](#usage)
-* [Contributors](#contributors)
-* [License](#license)
-
-
 ## Install
 
 [npm][]:
@@ -47,21 +39,14 @@ console.log(hmdUtils.renderName());
 // script
 ```
 
+## 加速三件套
++ [homedo-vue3-boilerplate](https://github.com/rmlzy/homedo-vue3-boilerplate): 一个模板仓库
++ [homedo-cli](https://github.com/rmlzy/homedo-cli): 一个生成代码的终端命令
++ [homedo-utils](https://github.com/rmlzy/homedo-utils): 河姆渡常用的公共方法
 
-## Contributors
+如果对你有帮助, 欢迎点一下 Star
 
-| Name      | Website                 |
-| --------- | ----------------------- |
-| **rmlzy** | <https://poppython.com> |
+如果有问题, 可以通过 rmlzy@outlook.com 找到我
 
-
-## License
-
-[MIT](LICENSE) © [rmlzy](https://poppython.com)
-
-
-##
-
-[npm]: https://www.npmjs.com/
-
-[yarn]: https://yarnpkg.com/
+## LICENSE
+MIT
