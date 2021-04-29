@@ -1,5 +1,7 @@
 # homedo-utils
 
+⚠️⚠️ 功能开发中... ⚠️⚠️
+
 [![build status](https://img.shields.io/travis/com/rmlzy/homedo-utils.svg)](https://travis-ci.com/rmlzy/homedo-utils)
 [![code coverage](https://img.shields.io/codecov/c/github/rmlzy/homedo-utils.svg)](https://codecov.io/gh/rmlzy/homedo-utils)
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
