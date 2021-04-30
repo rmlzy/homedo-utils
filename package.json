@@ -1,7 +1,7 @@
 {
   "name": "homedo-utils",
   "description": "A JavaScript util collections built for homedo.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",

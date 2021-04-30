@@ -1,5 +1,5 @@
-declare module 'hmd-utils' {
-  export = HmdUtils;
+declare module 'homedo-utils' {
+  export = HomedoUtils;
 }
 
 interface IBrowser {
@@ -8,7 +8,7 @@ interface IBrowser {
 }
 
 // @ts-ignore
-declare namespace HmdUtils {
+declare namespace HomedoUtils {
   /**
    * 判断字符串是否是国内手机号码
    * @param {String} string
