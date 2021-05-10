@@ -1,7 +1,7 @@
 {
   "name": "homedo-utils",
   "description": "A JavaScript util collections built for homedo.com",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
@@ -10,13 +10,7 @@
   },
   "dependencies": {
     "dayjs": "^1.10.4",
-    "js-base64": "^3.6.0",
-    "js-cookie": "^2.2.1",
-    "js-file-download": "^0.4.12",
-    "js-sha256": "^0.9.0",
     "lodash": "^4.17.21",
-    "md5": "^2.3.0",
-    "number-precision": "^1.5.0",
     "numbro": "^2.3.2",
     "rmb-x": "^0.1.2",
     "uuid": "^8.3.2"
